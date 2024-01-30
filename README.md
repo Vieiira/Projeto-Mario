@@ -1,6 +1,6 @@
-# Projeto sobre o filme do Mario 🍄
+<h1>Projeto sobre o filme do Mario 🍄</h1>
 
-<img src="./src/imagens/super-mario-chars.png" alt="Foto do mario" aling:center></img>
+<img widht="250px" height="250px" src="./src/imagens/super-mario-chars.png" alt="Foto do mario"></img>
 
 ### Óla devs sejam muito bem-vindos ao meu primeiro projeto !!
 
@@ -8,4 +8,4 @@ Esse projeto foi desenvolvido com meus professores e algumas pessoas que também
 
 ## Linguagens utilizadas :
 
-<img  src="./src/imagens/imagem completa.jpg"></img>
+<img widht="250px" height="250px" aling="center" src="./src/imagens/imagem completa.jpg"></img>
