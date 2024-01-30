@@ -1,6 +1,7 @@
 <h1 align="center">Projeto sobre o filme do Mario 🍄</h1>
 
-<img class="foto mario" src="./src/imagens/super-mario-chars.png" alt="Foto do mario"></img>
+<img width="250px"  height="250px"
+src="./src/imagens/super-mario-chars.png" alt="Foto do mario">  </img>
 
 ### Óla devs sejam muito bem-vindos ao meu primeiro projeto !!
 
@@ -8,13 +9,5 @@ Esse projeto foi desenvolvido com meus professores e algumas pessoas que também
 
 ## Linguagens utilizadas :
 
-<img class="foto linguagem" src="./src/imagens/imagem completa.jpg"></img>
-
-<style>
-.foto{
-    width: 250px;
-    height: 250px;
-    margin-left:50%;
-    margin-right:50%;
-}
-</style>
+<img width="250px"  height="250px"
+ src="./src/imagens/imagem completa.jpg" alt="foto das linguagens"></img>
