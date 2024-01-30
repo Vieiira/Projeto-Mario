@@ -1,4 +1,4 @@
-<h1>Projeto sobre o filme do Mario 🍄</h1>
+<h1 align="center">Projeto sobre o filme do Mario 🍄</h1>
 
 <img widht="250px" height="250px" src="./src/imagens/super-mario-chars.png" alt="Foto do mario"></img>
 
