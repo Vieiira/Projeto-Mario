@@ -15,7 +15,6 @@ Esse projeto foi desenvolvido com meus professores e algumas pessoas que também
     width: 250px;
     height: 250px;
     margin-left:50%;
-    margin-right:50%
+    margin-right:50%;
 }
-
 </style>
