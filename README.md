@@ -1,6 +1,6 @@
 <h1 align="center">Projeto sobre o filme do Mario 🍄</h1>
 
-<div style="margin-left: 30%">
+<div style="margin-left: 50%">
 <img alt="Foto mario" height="300" width="300" src="./src/imagens/super-mario-chars.png">
 </div>
 
