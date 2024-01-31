@@ -1,7 +1,8 @@
 <h1 align="center">Projeto sobre o filme do Mario 🍄</h1>
 
-<img width="250px"  height="250px"
-src="./src/imagens/super-mario-chars.png" alt="Foto do mario">  </img>
+<div>
+<img alt="Foto mario" height="300" width="300" src="./src/imagens/super-mario-chars.png">
+</div>
 
 ### Óla devs sejam muito bem-vindos ao meu primeiro projeto !!
 
@@ -9,5 +10,8 @@ Esse projeto foi desenvolvido com meus professores e algumas pessoas que também
 
 ## Linguagens utilizadas :
 
-<img width="250px"  height="250px"
- src="./src/imagens/imagem completa.jpg" alt="foto das linguagens"></img>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
